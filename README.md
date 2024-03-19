@@ -1,0 +1,1 @@
+modified from OMP official Powerlevel10k_Rainbow
